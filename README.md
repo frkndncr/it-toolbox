@@ -12,15 +12,16 @@ Bu GitHub deposu, IT profesyonellerinin günlük işlerini kolaylaştırmak içi
 6. Dosya Yönetim Araçları
 7. Ağ ve İnternet Araçları
 8. Multimedya Araçları
-Yedekleme ve Geri Yükleme Araçları
-Sanallaştırma Araçları
-Grafik Tasarım ve Video Düzenleme Araçları
-3D Modelleme Araçları
-Veri Analizi ve İş Zekası Araçları
-Sunucu Yönetim Araçları
-Eğitim ve Öğrenme Araçları
-İş Zekası Araçları
-Bu kaynak, IT alanında çalışanlar için faydalı bir referans kaynağıdır.
+10. Yedekleme ve Geri Yükleme Araçları
+11. Sanallaştırma Araçları
+12. Grafik Tasarım ve Video Düzenleme Araçları
+13. 3D Modelleme Araçları
+14. Veri Analizi ve İş Zekası Araçları
+15. Sunucu Yönetim Araçları
+16. Eğitim ve Öğrenme Araçları
+17. İş Zekası Araçları
+    
+## Bu kaynak, IT alanında çalışanlar için faydalı bir referans kaynağıdır.
 
 # Erişim Adresi
 
