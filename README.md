@@ -4,14 +4,14 @@ Bu GitHub deposu, IT profesyonellerinin günlük işlerini kolaylaştırmak içi
 
 # İçerik aşağıdaki kategorilere ayrılmıştır:
 
-Sistem Araçları
-Güvenlik Yazılımları
-Tarayıcılar
-Ofis ve Verimlilik Araçları
-Geliştirici Araçları
-Dosya Yönetim Araçları
-Ağ ve İnternet Araçları
-Multimedya Araçları
+1. Sistem Araçları
+2. Güvenlik Yazılımları
+3. Tarayıcılar
+4. Ofis ve Verimlilik Araçları
+5. Geliştirici Araçları
+6. Dosya Yönetim Araçları
+7. Ağ ve İnternet Araçları
+8. Multimedya Araçları
 Yedekleme ve Geri Yükleme Araçları
 Sanallaştırma Araçları
 Grafik Tasarım ve Video Düzenleme Araçları
